@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -7,6 +9,7 @@
 body{
     background: #091219;
     text-align: center;
+    font-family: 'Lemon', serif;
 }
 
 h1{
@@ -95,6 +98,7 @@ h1{
 }
 
 .play{
+    font-family: 'Lemon', serif;
     position: relative;
     left: 50%;
     transform: translateX(-50%);
